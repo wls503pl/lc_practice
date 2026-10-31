@@ -1,1 +1,0 @@
-/usr/bin/c++ CMakeFiles/ws_server.dir/src/server.cpp.o -o ws_server 

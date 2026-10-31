@@ -1,5 +1,0 @@
-/home/dayda/lc_practice/WebSocket/build/CMakeFiles/ws_server.dir
-/home/dayda/lc_practice/WebSocket/build/CMakeFiles/ws_client.dir
-/home/dayda/lc_practice/WebSocket/build/CMakeFiles/ws_binance_market.dir
-/home/dayda/lc_practice/WebSocket/build/CMakeFiles/edit_cache.dir
-/home/dayda/lc_practice/WebSocket/build/CMakeFiles/rebuild_cache.dir

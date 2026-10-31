@@ -1,1 +1,0 @@
-/usr/bin/c++ CMakeFiles/ws_binance_market.dir/src/binance_market_ws.cpp.o -o ws_binance_market  /usr/lib/x86_64-linux-gnu/libssl.so /usr/lib/x86_64-linux-gnu/libcrypto.so 
